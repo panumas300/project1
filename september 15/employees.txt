@@ -1,0 +1,15 @@
+Name: Panumas
+ID: 6306022610024
+Dept: programmer
+Name: Apiwat
+ID: 6306022610025
+Dept: engineer
+Name: Teerapat
+ID: 6306022610026
+Dept: cleaner
+Name: patsakorn
+ID: 6306022610018
+Dept: data
+Name: watchirawit
+ID: 6306022610023
+Dept: CEO
